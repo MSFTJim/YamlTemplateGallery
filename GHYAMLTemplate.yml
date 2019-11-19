@@ -1,0 +1,6 @@
+# this is the yaml template file in a GitHub repo
+
+# trigger: none
+
+steps:
+- script: echo This came from a Template in a GitHub repo
